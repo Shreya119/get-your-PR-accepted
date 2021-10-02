@@ -17,6 +17,7 @@
 - [Yash Sanghvi](https://github.com/yashsanghvi001)
 - [Muskan Shaikh](https://github.com/muskanshaikh)
 - [Deeksha Mishra](https://github.com/nkmishra217)
+- [Shreya Gupta](https://github.com/Shreya119)
 - [Vidnyani Umathe](https://github.com/vidnyani)
 - [Ashlesha](https://github.com/Ashlesha01)
 - [Sahil Bose](https://github.com/sah16)
