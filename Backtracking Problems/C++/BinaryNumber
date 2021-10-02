@@ -1,0 +1,20 @@
+/*Ques:
+Print all the binary numbers of length N with K bits set.
+Eg..
+I/P : N = 2 and K =1
+O/P : {01,10}*/
+
+//CODE
+
+void printBinaryWithKBitsSet(int noOfBits, int kSetBits, string s="") 
+{
+    if(noOfBits == s.length()) 
+    {
+        if (kSetBits == std::count(s.begin(), s.end(), '1')) {
+            cout<<s<<endl;
+        }
+    }else  {
+        printBinaryWithKBitsSet(noOfBits, kSetBits, s+"0");
+        printBinaryWithKBitsSet(noOfBits, kSetBits, s+"1");
+    }
+}
